@@ -1,4 +1,4 @@
-# C3 M4 Lab 3 — Model Pruning with PyTorch
+# Model Pruning with PyTorch
 
 A hands-on walkthrough of three pruning strategies from `torch.nn.utils.prune`, finishing with a practical global-pruning comparison on a pre-trained ResNet18.
 
